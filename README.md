@@ -19,7 +19,8 @@
 
     `
     cd supervisor-portabl
-    
+    `
+    `
     python supervisor/confecho.py  > test.conf
     `
    
