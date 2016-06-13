@@ -18,7 +18,6 @@
 2. 生成默认配置文件
 
     `
-    # 进入代码目录
     cd supervisor-portabl
     `
     
